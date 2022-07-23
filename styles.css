@@ -1,0 +1,56 @@
+body{
+    background-color:  #FAF7FD;
+}
+
+.fotodeperfil{
+    
+    border-radius: 100% ;
+    border: 1px solid #BB99DD ;
+    max-height: 150px;
+    padding: 3px;
+    margin-top: 150px;
+    
+}
+
+.instagram{
+    color:  #BB99DD;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    max-width: 326px;
+    margin-bottom: 69px;
+    
+        
+}
+
+.item{
+    border: solid 0.7px ;
+    border-radius: 3px;
+    text-decoration: none;
+    padding: 5px 0 5px 0;
+    margin-top: 10px;
+    max-height: 49px;
+    color:  #BB99DD; 
+}
+
+.icons{
+    max-height: 40px;
+    max-width: 236px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+
+        
+}
+
+.mini {
+border: none;
+}
+
+
+
+
+
+
